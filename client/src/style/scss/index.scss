@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    padding: 0px;
+    background-color: whitesmoke;
+}
+
+.todo--container {
+    padding: 14px;
+}
+.todo--form {
+    min-height: 150px;
+    margin-bottom: 20px;
+}
+
+.todo--form-input {
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+.todo--form-button {
+    background-color: green !important;
+    color: whitesmoke !important;
+    font-weight: 400 !important;
+    text-transform: capitalize !important;
+    border: none;
+}
+
+.todo--item {
+    min-height: 120px;
+    margin-bottom: 13px;
+}
+
+.todo--item-title {
+    margin-bottom: 17px;
+}
+.todo--item-dscription {
+    margin-bottom: 16px;
+}
